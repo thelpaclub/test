@@ -4,7 +4,7 @@ public class sum {
 
 
 
-System.out.println("rupak.   ffff ");
+System.out.println("rupak.   f.      fff ");
 
     }
 }
